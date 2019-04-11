@@ -295,7 +295,7 @@ defaults:
       share: true
       related: true
 
-    # _oages
+    # _pages
     - scope:
         path: ""
         type: pages
